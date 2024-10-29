@@ -5,10 +5,8 @@ This repository contains a simple C++ program that demonstrates basic `while` lo
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Program Explanation](#program-explanation)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Example Output](#example-output)
+- [Question-1](#Question-1)
+- [Installation](#Installation)
 
 ## Introduction
 
@@ -16,7 +14,7 @@ The purpose of this program is to provide a basic exercise on C++ loops and synt
 The program outputs a welcome message, performs calculations in a loop, and finally outputs the result.
 
 
-### Question 1
+### Question-1
 
 ```cpp
     // Question 1
@@ -29,7 +27,7 @@ The program outputs a welcome message, performs calculations in a loop, and fina
 }
 ```
 
-#### Question 1 Answer
+#### Question-1-Answer
 ```
 -1
 ```
