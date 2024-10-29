@@ -1,7 +1,8 @@
 
 # C++ Looping Syntax Exercises
 
-This repository contains a simple C++ program that demonstrates basic `while` loop syntax and the use of `cout` for console output. The code solves a specific problem where it performs integer operations within a loop, outputting a result based on the problem's conditions.
+This repository contains a simple C++ program that demonstrates basic `while`, `for`, and etc. loop syntax and the use of `cout` for console output. 
+The code solves a specific problem where it performs integer operations within a loop, outputting a result based on the problem's conditions.
 
 ## Table of Contents
 - [Introduction](#introduction)
