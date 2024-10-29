@@ -24,7 +24,6 @@ The program outputs a welcome message, performs calculations in a loop, and fina
         n = (n / 2) * 2 - 3;
     }
     cout << n << "\n";
-}
 ```
 
 #### Question-1-Answer
