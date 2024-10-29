@@ -46,7 +46,7 @@ To compile and run this program, ensure you have a C++ compiler installed, such 
     ```
 3. Compile the code:
     ```bash
-    g++ main.cpp -o looping_exercise
+    g++ questions.cpp -o looping_exercise
     ```
 
 
